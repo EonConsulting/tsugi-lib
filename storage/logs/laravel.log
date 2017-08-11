@@ -8647,3 +8647,15 @@ Stack trace:
 [2017-08-10 14:20:02] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'EONConsulting\Storyline\Core\Controllers\DBCourseStorylineBase' not found' in C:\wamp64\www\NewEON\app\Http\Controllers\Courses\CourseStorylineController.php:22
 Stack trace:
 #0 {main}  
+[2017-08-10 22:00:28] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Tsugi\Laravel\LTIX::laravelauthSetup()' in C:\wamp64\www\NewEON\packages\laravel-lti\src\Http\Controllers\LTIAuthBaseController.php:46
+Stack trace:
+#0 {main}  
+[2017-08-10 22:00:45] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined method Tsugi\Laravel\LTIX::laravelauthSetup()' in C:\wamp64\www\NewEON\packages\laravel-lti\src\Http\Controllers\LTIAuthBaseController.php:46
+Stack trace:
+#0 {main}  
+[2017-08-11 08:18:37] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'EONConsulting\Storyline\Core\Controllers\DBCourseStorylineBase' not found' in C:\wamp64\www\NewEON\app\Http\Controllers\Courses\CourseStorylineController.php:22
+Stack trace:
+#0 {main}  
+[2017-08-11 08:19:03] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'EONConsulting\Storyline\Core\Controllers\DBCourseStorylineBase' not found' in C:\wamp64\www\NewEON\app\Http\Controllers\Courses\CourseStorylineController.php:22
+Stack trace:
+#0 {main}  
